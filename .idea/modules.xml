@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MavenSsm/MavenSsm.iml" filepath="$PROJECT_DIR$/MavenSsm/MavenSsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenMybatis/mavenMybatis.iml" filepath="$PROJECT_DIR$/mavenMybatis/mavenMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping/shopping.iml" filepath="$PROJECT_DIR$/shopping/shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-dao/shopping-dao.iml" filepath="$PROJECT_DIR$/shopping-dao/shopping-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-entity/shopping-entity.iml" filepath="$PROJECT_DIR$/shopping-entity/shopping-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-serivce/shopping-serivce.iml" filepath="$PROJECT_DIR$/shopping-serivce/shopping-serivce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-web/shopping-web.iml" filepath="$PROJECT_DIR$/shopping-web/shopping-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspacesMaven.iml" filepath="$PROJECT_DIR$/workspacesMaven.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--一个表对应一个映射文件-->
+<!--namespace指定dao接口，让映射文件和dao一一对应-->
+<mapper namespace="com.ck.dao.CityDao">
+
+<resultMap id="citymapper" type="com.ck.entity.city">
+    <result property="cid" column="c_id"></result>
+    <result property="cname" column="c_name"></result>
+</resultMap>
+
+
+
+</mapper>
